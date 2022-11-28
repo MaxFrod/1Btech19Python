@@ -82,7 +82,10 @@
 #   suma = suma + b
 # print(suma)
 
-# Zad 3
+
+
+
+
 
 
 

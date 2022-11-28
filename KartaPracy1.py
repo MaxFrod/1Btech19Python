@@ -20,3 +20,7 @@
 # a, b, c = int(input()), int(input()), int(input())
 # print(a * b *c)
 
+suma = 0
+m = int(input())
+for i in range(11,99,2):
+    print(i, end=" ")
